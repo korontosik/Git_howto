@@ -5,12 +5,12 @@
 cd C:\folder_name
 ```
 
-Команда отоброжения директории MacOS, Linux
+Команда отоброжения директории MacOS, Linux:
 ```sh
 pwd
 ```
 
-Листинг текущей директории
+Список в текущей директории
 Wondow:
 ```sh
 dir
@@ -18,4 +18,13 @@ dir
 MacOS, Linux:
 ```sh
 ls
+``````
+
+Удаление файла Windows
+```sh
+del <filename>
+```
+в MackOS, Linux:
+```sh
+rm <filename>
 ``````
