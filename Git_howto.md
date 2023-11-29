@@ -9,7 +9,14 @@ git init
 ```sh
 git add
 ```
-git commit -m
+Добовление коментария 
+```sh
+git commit -m"Коментарий"
+```
+Просмотор списка изменений
+```sh
 git log
+```
+
 git log --oneline
 git checlout
