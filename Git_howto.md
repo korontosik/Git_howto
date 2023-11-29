@@ -17,6 +17,9 @@ git commit -m"Коментарий"
 ```sh
 git log
 ```
-
+Просотр сокращенного списка изменений 
+```sh
 git log --oneline
+```
+
 git checlout
