@@ -21,5 +21,4 @@ git log
 ```sh
 git log --oneline
 ```
-
 git checlout
