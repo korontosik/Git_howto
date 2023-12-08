@@ -57,3 +57,7 @@ git merge <название ветки>
 ```sh
 git log --graph
 ```
+Отмена изменений 
+```sh
+git reset
+```
