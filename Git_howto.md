@@ -59,5 +59,5 @@ git log --graph
 ```
 Удаление мусора из рабочей каталога
 ```sh
-git log --graph
+git clean
 ```
